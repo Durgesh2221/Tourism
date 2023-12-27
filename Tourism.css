@@ -1,0 +1,76 @@
+
+body{
+    background-color: aliceblue;
+    text-align: left;
+}
+
+
+.heading{
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraph{
+    color: white;
+}
+
+.nav{
+    text-align: left;
+    text-orientation: sideways;
+}
+
+
+.Navigation {
+    text-orientation: sideways;
+    text-transform: uppercase;
+    background-color: skyblue; 
+    border: black;
+    color: gold;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration:rgb(0, 238, 0);
+    display: list-item;
+    font-size: 16px;
+  }
+
+  .places{
+    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px; 
+  }
+
+
+ 
+.parent{
+float: left;
+display: grid;
+text-align: left;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 10px;
+row-gap: 70px;
+margin-top: 5%;
+margin-left: 0;
+
+}
+
+.down{
+    column-gap: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
